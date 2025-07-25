@@ -40,4 +40,12 @@ pip install textblob
 ## Example Input File
 
 ```
-I love sunny
+I love sunny days. The weather is perfect for a walk in the park.
+However, sometimes it gets too hot and uncomfortable.
+Overall, I enjoy spending time outdoors.
+Rainy days make me feel a bit gloomy, but I appreciate the freshness they bring.
+```
+
+## License
+
+This project is for educational purposes.
