@@ -52,4 +52,4 @@ Detected Language Code: en (English)
 
 ## License
 
-This project is
+This project is for educational purposes.
