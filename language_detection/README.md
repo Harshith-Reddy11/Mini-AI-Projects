@@ -1,18 +1,18 @@
-# Language Detector Mini Project
+# 🌐 Language Detector Mini Project
 
 This Python project detects the language of a given text using [langdetect](https://pypi.org/project/langdetect/).  
 You can enter text directly or provide a `.txt` file for detection. The tool maps detected language codes to human-readable names.
 
-## Features
+## ✨ Features
 
-- Detects language from user input or a text file
-- Maps language codes to full language names
-- Handles empty input and file errors gracefully
-- Supports many world languages
+- 📝 Detects language from user input or a text file
+- 🌍 Maps language codes to full language names
+- 🚫 Handles empty input and file errors gracefully
+- 🗣️ Supports many world languages
 
-## Requirements
+## 🛠 Requirements
 
-- Python 3.x
+- 🐍 Python 3.x
 - [langdetect](https://pypi.org/project/langdetect/)
 
 Install with:
@@ -20,7 +20,7 @@ Install with:
 pip install langdetect
 ```
 
-## Usage
+## 🚀 Usage
 
 1. **Run the script:**
    ```
@@ -34,7 +34,7 @@ pip install langdetect
 3. **View results:**  
    The detected language code and name will be printed in the terminal.
 
-## Example
+## 📄 Example
 
 **Direct input:**
 ```
@@ -50,6 +50,6 @@ Enter path to .txt file: input.txt
 Detected Language Code: en (English)
 ```
 
-## License
+## 📜 License
 
 This project is for educational purposes.
