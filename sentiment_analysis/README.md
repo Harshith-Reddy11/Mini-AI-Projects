@@ -3,6 +3,9 @@
 
 # 💬 Sentiment Analysis – Mini Project
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+![License](https://img.shields.io/badge/license-MIT-green)
+
 This is a simple Python project that analyzes the **sentiment of text** using [TextBlob](https://textblob.readthedocs.io/en/dev/). It can process direct user input or read sentences from a text file, providing **polarity**, **subjectivity**, and **sentiment classification** for each sentence and the overall text.
 
 ---
