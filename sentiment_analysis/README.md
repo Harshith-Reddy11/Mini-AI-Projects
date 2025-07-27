@@ -1,3 +1,6 @@
+🎯 A beginner-friendly Python project that performs sentiment analysis using natural language processing. Ideal for text analysis tasks like customer feedback, reviews, or social media posts.
+
+
 # 💬 Sentiment Analysis – Mini Project
 
 This is a simple Python project that analyzes the **sentiment of text** using [TextBlob](https://textblob.readthedocs.io/en/dev/). It can process direct user input or read sentences from a text file, providing **polarity**, **subjectivity**, and **sentiment classification** for each sentence and the overall text.
