@@ -1,6 +1,5 @@
 # 🧠 Text Summarizer – Mini Project  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  ![License](https://img.shields.io/badge/license-MIT-green)
 
 🎯 A simple NLP-powered project that automatically summarizes long text into key sentences using the LSA (Latent Semantic Analysis) algorithm. Useful for summarizing articles, conversations, or documents.
 
