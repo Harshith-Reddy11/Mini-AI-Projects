@@ -5,7 +5,7 @@ You can enter text directly or provide a `.txt` file for detection. The tool map
 
 ## ✨ Features
 
-- 📝 Detects language from user input or a text file
+- 📝 Detects language from user input or from a text file
 - 🌍 Maps language codes to full language names
 - 🚫 Handles empty input and file errors gracefully
 - 🗣️ Supports many world languages
