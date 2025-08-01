@@ -8,7 +8,7 @@
 
 ## ✨ Features
 
-- 🎤 Real-time voice input via microphone  
+- 🎤 Real-time voice inputs via microphone  
 - 📝 Converts speech to text  
 - 💾 Saves the transcription to `transcription.txt`  
 - ⚠️ Handles noisy audio and errors gracefully
