@@ -17,7 +17,7 @@
 
 ## 🛠️ Installation
 
-Install the required libraries:
+Install all the required libraries:
 
 ```bash
 pip install SpeechRecognition
