@@ -1,55 +1,61 @@
-# 🗣️ Speech-to-Text Converter – Mini Project  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![License](https://img.shields.io/badge/license-MIT-green)
+# 🎤 Speech-to-Text Python Project
 
-🎯 A simple project that captures speech from your microphone and converts it to text using Python's SpeechRecognition library.
+A robust and interactive speech-to-text tool built with Python.  
+Transcribe audio from your microphone or audio files, choose your language, get confidence scores, and save your results—all in one script!
 
 ---
 
 ## ✨ Features
 
-- 🎤 Real-time voice inputs via microphone  
-- 📝 Converts speech to text  
-- 💾 Saves the transcription to `transcription.txt`  
-- ⚠️ Handles noisy audio and errors gracefully
+- 🎙️ Transcribe speech from microphone or audio files (WAV/FLAC)
+- 🌐 Supports multiple languages (English, Hindi, Telugu, French, and more)
+- 🔔 Plays a beep sound before listening for speech
+- ⭐ Displays confidence score (if available)
+- 💾 Optionally save transcriptions to a file
+- 🔄 Multiple attempts without restarting the script
+- 🛡️ Handles errors and provides detailed feedback
 
 ---
 
-## 🛠️ Installation
+## 🛠 Requirements
 
-Install all the required libraries:
+- Python 3.x  
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 
-```bash
+Install dependencies with:
+```
 pip install SpeechRecognition
-pip install pyaudio  # or sounddevice if pyaudio fails
 ```
 
----
-
-## ▶️ Usage
-
-1. Run the script:
-
-```bash
-python speech_to_text.py
-```
-
-2. Speak into your microphone when prompted.
-
-3. View the output in the terminal and in `transcription.txt`.
+> **Note:**  
+> This script uses the built-in `winsound` module for beep sounds (Windows only).  
+> For microphone input, you may also need to install [PyAudio](https://pypi.org/project/PyAudio/):
+> ```
+> pip install pyaudio
+> ```
+> If you have trouble installing PyAudio, see [PyAudio installation help](https://people.csail.mit.edu/hubert/pyaudio/#downloads).
 
 ---
 
-## 🚧 Troubleshooting
+## 🚀 Usage
 
-- If you get `pyaudio` installation errors on Windows:
-  - Try `pip install pipwin && pipwin install pyaudio`
-  - Or use `sounddevice` as an alternative
+1. **Run the script:**
+   ```
+   python speech_to_text.py
+   ```
 
----
+2. **Choose your language:**  
+   Select from the displayed language codes (e.g., `en-US` for English, `hi-IN` for Hindi).
 
-## 📄 License
+3. **Choose input method:**  
+   - `1` for microphone input (speak after the beep)
+   - `2` for audio file input (enter the path to a WAV/FLAC file)
+   - `3` to change language
+   - `4` to exit
 
-This project is licensed under the [MIT License](../LICENSE) and intended for educational use.
+4. **View and save results:**  
+   - The transcription and confidence score (if available) are shown in the terminal.
+   - You can save the result to `transcription.txt`.
 
----
+5. **Repeat or exit:**  
+   - Choose to transcribe again or exit
