@@ -59,3 +59,23 @@ pip install SpeechRecognition
 
 5. **Repeat or exit:**  
    - Choose to transcribe again or exit
+  
+---
+
+## 🌍 Supported Languages
+
+- English (US/India)
+- Hindi
+- Telugu
+- French
+- Spanish
+- German
+- Chinese (Mandarin)
+- *(Add more as needed in the `LANGUAGES` dictionary)*
+
+---
+
+## 📜 License
+
+This project is for educational and personal use.
+
