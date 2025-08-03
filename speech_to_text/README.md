@@ -78,4 +78,5 @@ pip install SpeechRecognition
 
 ## 📜 License
 
-This project is for educational and personal
+This project is for educational and personal use.
+
