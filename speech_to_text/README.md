@@ -1,7 +1,7 @@
 # 🎤 Speech-to-Text Python Project
 
 A robust and interactive speech-to-text tool built with Python.  
-Transcribe audio from your microphone or audio files, choose your language, get confidence scores, and save your results—all in one script!
+Transcribe audio from your microphone or audio files, choose your language, get confidence scores, see ambient noise feedback, and save your results—all in one script!
 
 ---
 
@@ -10,7 +10,8 @@ Transcribe audio from your microphone or audio files, choose your language, get 
 - 🎙️ Transcribe speech from microphone or audio files (WAV/FLAC)
 - 🌐 Supports multiple languages (English, Hindi, Telugu, French, and more)
 - 🔔 Plays a beep sound before listening for speech
-- ⭐ Displays confidence score (if available)
+- 🔊 Displays detected ambient noise energy before recording
+- ⭐ Shows confidence score (if available)
 - 💾 Optionally save transcriptions to a file
 - 🔄 Multiple attempts without restarting the script
 - 🛡️ Handles errors and provides detailed feedback
@@ -48,18 +49,18 @@ pip install SpeechRecognition
    Select from the displayed language codes (e.g., `en-US` for English, `hi-IN` for Hindi).
 
 3. **Choose input method:**  
-   - `1` for microphone input (speak after the beep)
+   - `1` for microphone input (speak after the beep; noise level will be shown)
    - `2` for audio file input (enter the path to a WAV/FLAC file)
    - `3` to change language
    - `4` to exit
 
 4. **View and save results:**  
-   - The transcription and confidence score (if available) are shown in the terminal.
+   - The transcription, confidence score (if available), and detected ambient noise energy are shown in the terminal.
    - You can save the result to `transcription.txt`.
 
 5. **Repeat or exit:**  
-   - Choose to transcribe again or exit
-  
+   - Choose to transcribe again or exit the tool.
+
 ---
 
 ## 🌍 Supported Languages
@@ -77,5 +78,4 @@ pip install SpeechRecognition
 
 ## 📜 License
 
-This project is for educational and personal use.
-
+This project is for educational and personal
