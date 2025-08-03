@@ -25,8 +25,6 @@ def choose_language():
     return lang if lang in LANGUAGES else "en-US"
 
 
-
-
 def play_beep():
     try:
         winsound.Beep(1000, 300)  # frequency in Hz, duration in ms
@@ -40,6 +38,8 @@ def transcribe_from_microphone(recognizer, language):
     play_beep()
     with mic as source:
         recognizer.adjust_for_ambient_noise(source)
+        print(
+            f"🔊 Detected ambient noise energy: {recognizer.energy_threshold:.2f}")
         audio = recognizer.listen(source)
     return audio
 
