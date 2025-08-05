@@ -73,4 +73,7 @@ Choose algorithm: lsa / lexrank / luhn (default lsa):
 
 ## 📜 License
 
-This project is for educational
+This project is licensed under the [MIT License](../LICENSE) and intended for **educational use**.
+
+---
+
