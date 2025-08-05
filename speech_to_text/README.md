@@ -8,7 +8,7 @@ Transcribe audio from your microphone or audio files, choose your language, get 
 ## ✨ Features
 
 - 🎙️ Transcribe speech from microphone or audio files (WAV/FLAC)
-- 🌐 Supports multiple languages (English, Hindi, Telugu, French, and more)
+- 🌐 Supports multiple languages spoken across the Globe (English, Hindi, Telugu, French, and more)
 - 🔔 Plays a beep sound before listening for speech
 - 🔊 Displays detected ambient noise energy before recording
 - ⭐ Shows confidence score (if available)
@@ -79,6 +79,7 @@ pip install SpeechRecognition
 ## 📜 License
 
 This project is for educational and personal use.
+
 
 
 
