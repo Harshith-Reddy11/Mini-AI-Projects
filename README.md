@@ -71,7 +71,7 @@ python script_name.py
 
 ## 🤝 Contributions
 
-This repository is intended for personal learning and open collaboration.  
+This repository is intended for personal learning and open collaboration!!  
 Feel free to suggest improvements or raise issues.
 
 ---
