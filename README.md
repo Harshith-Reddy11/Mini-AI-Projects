@@ -1,6 +1,6 @@
 # 🤖 Mini AI Projects Collection
 
-Welcome to the **Mini AI Projects** repository!  
+Welcome to the **Mini AI Projects** repository!!
 This is a curated collection of small-scale, practical AI/ML-based projects designed to enhance learning, build hands-on skills, and maintain consistent GitHub contributions 💻📈
 
 ---
