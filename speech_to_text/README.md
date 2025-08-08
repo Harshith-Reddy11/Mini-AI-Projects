@@ -13,7 +13,7 @@ Transcribe audio from your microphone or audio files, choose your language, get 
 - 🔊 Displays detected ambient noise energy before recording
 - ⭐ Shows confidence score (if available)
 - 💾 Optionally save transcriptions to a file
-- 🔄 Multiple attempts without restarting the script
+- 🔄 Multiple attempts without the need of restarting the script
 - 🛡️ Handles errors and provides detailed feedback
 
 ---
@@ -79,6 +79,7 @@ pip install SpeechRecognition
 ## 📜 License
 
 This project is for educational and personal use.
+
 
 
 
