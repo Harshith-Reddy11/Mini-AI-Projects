@@ -7,7 +7,7 @@ Choose from multiple algorithms and customize the summary length. Great for cond
 
 ## ✨ Features
 
-- 📚 Summarizes text from direct input or a file
+- 📚 Summarizes text from direct inputs or a file
 - ⚡ Choose summarization algorithm: LSA, LexRank, or Luhn
 - 📝 Customizable number of sentences in the summary
 - 💾 Optionally save the summary to `summary.txt`
@@ -76,5 +76,6 @@ Choose algorithm: lsa / lexrank / luhn (default lsa):
 This project is licensed under the [MIT License](../LICENSE) and intended for **educational use**.
 
 ---
+
 
 
