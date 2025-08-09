@@ -1,4 +1,4 @@
-# 📝 AI Text Summarizer
+# 📝 AI TEXT SUMMARIZER
 
 A beginner-friendly Python project that summarizes long text using natural language processing.  
 Choose from multiple algorithms and customize the summary length. Great for condensing articles, reports, or any lengthy content!
@@ -76,4 +76,5 @@ Choose algorithm: lsa / lexrank / luhn (default lsa):
 This project is licensed under the [MIT License](../LICENSE) and intended for **educational use**.
 
 ---
+
 
