@@ -36,7 +36,7 @@ This repository was created to:
 - Sumy  
 - langdetect / transformers  
 - scikit-learn  
-- Visual Studio Code
+- Visual Studio Code (VS Code)
 
 ---
 
