@@ -1,7 +1,7 @@
 # 🎤 Speech-to-Text Python Project
 
 A robust and interactive speech-to-text project built using Python.  
-Transcribe audio from your microphone or audio files, choose your language, get confidence scores, see ambient noise feedback, and save your results — all in one script.
+Transcribe audio from your microphone or audio files, choose your language, get confidence scores, see ambient noise feedback, and save your results — all in one script!!
 
 ---
 
@@ -79,6 +79,7 @@ pip install SpeechRecognition
 ## 📜 License
 
 This project is licensed under the [MIT License](../LICENSE) and intended for **educational use**.
+
 
 
 
