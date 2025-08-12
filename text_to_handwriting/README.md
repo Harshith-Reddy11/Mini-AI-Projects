@@ -11,7 +11,7 @@ This project supports multi-line text, dynamic image sizing, and custom handwrit
 - 📏 Automatically wraps text and adjusts image height
 - 🖋️ Uses any handwriting-style `.ttf` font
 - 🎨 Easy to customize font size, colors, and output file name
-- 🚫 Handles long text gracefully
+- 🚫 Handles long text gracefully.
 
 ---
 
