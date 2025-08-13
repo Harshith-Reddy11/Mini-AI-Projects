@@ -1,7 +1,7 @@
 # ✍️ Text to Handwriting Python Project
 
 Convert your typed text into a handwriting-style image using Python and Pillow!  
-This project supports multi-line text, dynamic image sizing, and custom handwriting fonts.
+This project supports multi-line text, dynamic image sizing, and custom handwriting fonts!!
 
 ---
 
