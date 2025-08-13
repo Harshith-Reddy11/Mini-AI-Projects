@@ -7,7 +7,7 @@ This project supports multi-line text, dynamic image sizing, and custom handwrit
 
 ## ✨ Features
 
-- 📝 Converts text to a handwriting-style image
+- 📝 Converts text to a handwriting-style image.
 - 📏 Automatically wraps text and adjusts image height
 - 🖋️ Uses any handwriting-style `.ttf` font
 - 🎨 Easy to customize font size, colors, and output file name
