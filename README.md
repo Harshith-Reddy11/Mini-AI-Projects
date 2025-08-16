@@ -22,9 +22,9 @@ This is a curated collection of small-scale, practical AI/ML-based projects desi
 
 This repository was created to:
 
-- Practice applied AI/ML through real-world micro-projects  
-- Build a strong GitHub contribution graph  
-- Learn popular libraries like `TextBlob`, `SpeechRecognition`, `Sumy`, `scikit-learn`, etc.  
+- Practice applied AI/ML through real-world micro-projects.  
+- Build a strong GitHub contribution graph.  
+- Learn popular libraries like `TextBlob`, `SpeechRecognition`, `Sumy`, `scikit-learn`, etc
 - Develop clean, modular, and documented codebases for portfolios and resumes  
 
 ---
