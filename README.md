@@ -24,8 +24,8 @@ This repository was created to:
 
 - Practice applied AI/ML through real-world micro-projects.  
 - Build a strong GitHub contribution graph.  
-- Learn popular libraries like `TextBlob`, `SpeechRecognition`, `Sumy`, `scikit-learn`, etc
-- Develop clean, modular, and documented codebases for portfolios and resumes  
+- Learn popular libraries like `TextBlob`, `SpeechRecognition`, `Sumy`, `scikit-learn`, etc.
+- Develop clean, modular, and documented codebases for portfolios and resumes.  
 
 ---
 
