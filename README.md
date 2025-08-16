@@ -13,6 +13,7 @@ This is a curated collection of small-scale, practical AI/ML-based projects desi
 | [Text Summarizer](./text_summarizer)       | Summarizes long paragraphs using Sumy and NLP                              |
 | [Speech to Text](./speech_to_text)         | Converts spoken voice input into text using SpeechRecognition              |
 | [Language Detector](./language_detector)   | Detects the language of any input sentence with confidence score           |
+| [Text to Handwriting](./text_to_handwriting) | Converts typed text into a handwriting-style PNG image using PyWhatKit   |
 | More coming soon...                        | ✨ Regularly updated with new mini-projects  |
 
 ---
